@@ -18,8 +18,7 @@ This project demonstrates production-ready API integrations, environment variabl
 
 ## 📦 Installation & Setup
 
-1. **Clone the repository:**
-   ```bash
-git clone https://github.com/your-username/crypto-alert-bot.git
-   cd crypto-alert-bot
-   ```
+1. Clone the repository and navigate to the project directory:
+```bash
+git clone [https://github.com/your_name_github/crypto-alert-bot.git](https://github.com/your_name_github/crypto-alert-bot.git)
+cd crypto-alert-bot
