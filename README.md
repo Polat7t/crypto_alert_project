@@ -20,5 +20,5 @@ This project demonstrates production-ready API integrations, environment variabl
 
 1. Clone the repository and navigate to the project directory:
 ```bash
-git clone https://github.com/your_name/crypto-alert-bot.git
+git clone https://github.com/your_name/crypto_alert_bot.git
 cd crypto-alert-bot
